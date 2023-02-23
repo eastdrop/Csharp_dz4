@@ -1,0 +1,15 @@
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\bin\Debug\net6.0\task25.exe
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\bin\Debug\net6.0\task25.deps.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\bin\Debug\net6.0\task25.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\bin\Debug\net6.0\task25.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\task25.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\refint\task25.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\task25.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task25\obj\Debug\net6.0\ref\task25.dll
