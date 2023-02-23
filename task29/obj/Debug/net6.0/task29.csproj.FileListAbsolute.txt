@@ -1,0 +1,15 @@
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\task29.csproj.AssemblyReference.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\task29.AssemblyInfoInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\task29.AssemblyInfo.cs
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\task29.csproj.CoreCompileInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\bin\Debug\net6.0\task29.exe
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\bin\Debug\net6.0\task29.deps.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\bin\Debug\net6.0\task29.runtimeconfig.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\bin\Debug\net6.0\task29.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\bin\Debug\net6.0\task29.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\task29.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\refint\task29.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\task29.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\task29.genruntimeconfig.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz4\Csharp_dz4\task29\obj\Debug\net6.0\ref\task29.dll
